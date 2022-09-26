@@ -1,0 +1,8 @@
+Esta es una lista de cosas para un test:
+
+1. La tarea
+2. La comida
+3. El termo
+
+!La coordenada
+C 0.25 0.25 0.25

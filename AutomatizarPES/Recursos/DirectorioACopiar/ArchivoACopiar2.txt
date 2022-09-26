@@ -1,0 +1,7 @@
+Hola, soy el otro archivo que se tiene que copiar.
+
+También agrego unos parámetros aleatorios en las siguientes linea para modificarlos secuencialmente cuando sea necesario probar otras funcionalidades.
+
+C 1.0 0.0 5.0
+
+O 1.0 0.25 5.0

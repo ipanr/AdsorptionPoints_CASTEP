@@ -1,0 +1,14 @@
+ReconstruirSuperficie
+     convierte XSD en CASTEP
+
+ObtenerResultados 
+    Recupera los datos obtenidos para las energías de adsorción superficiales
+
+AutomatizarPES
+    Obtiene los datos de la energía de adrosción superficial y los guarda en un archivo
+
+CambiarACoordenadasCartesianas (inconcluso)
+    Cambia de coordenadas relativas a absolutas un archivo CASTEP
+
+ConstruirSuperCelda (inconcluso)
+    Construye una super celda de AxBxC dado un archivo CASTEP

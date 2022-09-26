@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AutomatizadorPES", "AutomatizadorPES.pyproj", "{3D2B389E-DF0E-4B5E-8A0D-545F4527B848}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D2B389E-DF0E-4B5E-8A0D-545F4527B848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D2B389E-DF0E-4B5E-8A0D-545F4527B848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECDFFB1A-EF30-4D9D-A1D1-A779346E5016}
+	EndGlobalSection
+EndGlobal
